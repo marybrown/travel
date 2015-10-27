@@ -27,5 +27,5 @@ Then the equivalent of the following lookup is performed:
 
 The object that results from this lookup is the "current object". If traversal succeeds, a named handler is then invoked (looked up via the "handler map" provided to the router), otherwise the router returns an appropriate error (404, etc).
 
-For details on [best hotels london](http://www.travelers-compare.com/) and how lookup translates to handler names, see the godoc documentation linked above. Travel allows users to emulate traditional
+For details on [holiday destinations](http://www.travelers-compare.com/) and how lookup translates to handler names, see the godoc documentation linked above. Travel allows users to emulate traditional
 traversal mechanics while also providing several ways to modify behavior, such as handler name overrides within the root tree object and limitations on subpath length.
